@@ -1,0 +1,23 @@
+{
+  "name": "adv-fs-dnsa-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lawsonmcphetridge/adv-fs-dnsa-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lawsonmcphetridge/adv-fs-dnsa-challenge/issues"
+  },
+  "homepage": "https://github.com/lawsonmcphetridge/adv-fs-dnsa-challenge#readme",
+  "dependencies": {
+    "jest": "^29.4.1"
+  }
+}
